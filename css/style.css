@@ -5,5 +5,39 @@ html{
     padding-bottom: 160px;
 }
 body{
-    padding: 6.5rem 0 160px 0;
+    padding: 8.5rem 0 160px 0;
+}
+.navLogo {
+    width: 300px;
+    margin-bottom: -60px;
+}
+.footLogo {
+    width: 300px;
+}
+
+#Logo{
+    border-radius: 200px;
+}
+
+.banner-image{
+    background-image: linear-gradient(0deg, rgb(88, 88, 88), rgba(1, 141, 255, 0.418)),  url("/img/DjBdtJJXgAABLYi.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: auto;
+}
+.home-gradient-bg{
+    background-image: linear-gradient(0deg, rgb(0, 0, 0), rgb(90, 6, 6));
+}
+.games-gradient-bg{
+    background-image: linear-gradient(0deg, rgb(0, 0, 0), rgb(206, 185, 0));
+}
+.projects-gradient-bg{
+    background-image: linear-gradient(0deg, rgb(0, 0, 0), rgb(11, 91, 122));
+}
+.team-gradient-bg{
+    background-image: linear-gradient(0deg, rgb(0, 0, 0), rgb(16, 78, 19));
+}
+.about-gradient-bg{
+    background-image: linear-gradient(0deg, rgb(0, 0, 0), rgb(119, 81, 0));
 }
